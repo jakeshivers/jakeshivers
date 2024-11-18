@@ -5,13 +5,6 @@
 
 <!-- Projects -->
 
-### ***[NAME](LINK)***
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/jakeshivers/REPO)  
-***BRIEF DESCRIPTION***
-
-<br>
-<br>
-
 <!-- Github Stats -->
 
 ![](https://github-readme-stats.vercel.app/api?username=jakeshivers&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
