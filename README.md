@@ -14,11 +14,11 @@
 
 <!-- Github Stats -->
 
-![](https://github-readme-stats.vercel.app/api?jakeshivers=jakeshivers&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?jakeshivers=jakeshivers&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jakeshivers&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jakeshivers&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?jakeshivers=jakeshivers&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jakeshivers&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
