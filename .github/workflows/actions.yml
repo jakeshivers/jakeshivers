@@ -77,8 +77,8 @@ jobs:
 
       - name: Commit files
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "jakeshivers@gmail.com"
+          git config --local user.name "Jake Shivers"
           git add -A
           git diff-index --quiet HEAD || git commit -m "Updated Python data" --allow-empty
 
